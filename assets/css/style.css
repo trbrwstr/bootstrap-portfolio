@@ -1,0 +1,19 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.container2 {
+    
+        padding: 20px;
+        overflow: auto;
+        background: #fff;
+        clear: both;
+        width: 960px;
+        margin: 30px auto
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    top: 100;
+}
